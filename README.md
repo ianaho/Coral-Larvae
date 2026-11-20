@@ -12,7 +12,7 @@ Horizontal and vertical positions of individual *Acropora millepora* larvae reco
 | `z` | Vertical position, positive upward | mm |
 | `t` | Recorded time | s |
 
-Each trial contains three column vectors of equal length. The export preserves the positions and timestamps from the original tracking files, so the number of samples can differ between trials.
+Each trial contains three column vectors. The export preserves the positions and timestamps from the original tracking files, so the number of samples can differ between trials.
 
 ## Load and plot one track in MATLAB
 
